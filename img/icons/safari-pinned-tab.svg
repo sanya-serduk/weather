@@ -1,0 +1,25 @@
+<svg version="1.1"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="16"
+     height="16"
+     viewBox="0 0 100 100"
+>
+    <defs>
+        <radialGradient id="MxHhxqKElHAg" cx="-8px" cy="-8px" r="24px" fx="-13px" fy="-5px" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="rgb(0,0,0)" stop-opacity="0.1"/>
+            <stop offset="1" stop-color="rgb(0,0,0)" stop-opacity="0"/>
+        </radialGradient>
+        <radialGradient id="EPnwGCPnzHEZ" cx="16px" cy="-7px" r="24px" fx="22px" fy="0px" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="rgb(0,0,0)" stop-opacity="0.1"/>
+            <stop offset="1" stop-color="rgb(0,0,0)" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <g>
+        <g transform="translate(50,50)">
+            <path fill="#3C6EAA" stroke="none" paint-order="stroke fill markers" d=" M -27 30 A 21 21 0 1 1 -12.150757595082501 -5.849242404917497 L 20.686291501015237 2.6862915010152406 A 16 16 0 1 1 32 30 L -27 30"/>
+            <path fill="url(#MxHhxqKElHAg)" stroke="none" paint-order="stroke fill markers" d=" M -6 9 A 21 21 0 1 1 -6.000010499999124 8.979000003499987"/>
+            <path fill="url(#EPnwGCPnzHEZ)" stroke="none" paint-order="stroke fill markers" d=" M 48 14 A 16 16 0 1 1 47.99999200000067 13.984000002666658"/>
+            <path fill="#3C6EAA" stroke="none" paint-order="stroke fill markers" d=" M 28 -6 A 24 24 0 1 1 27.999988000001 -6.023999996000014"/>
+        </g>
+    </g>
+</svg>
